@@ -50,7 +50,7 @@ REF_BUILD_VERSION="13"
 ## > for iso file name
 ##
 
-REF_BUILD_SUBJECT_NAME="debian-xfce"
+REF_BUILD_SUBJECT_NAME="debian-jwm"
 
 
 
@@ -61,7 +61,7 @@ REF_BUILD_SUBJECT_NAME="debian-xfce"
 ## > for info
 ##
 
-REF_BUILD_SUBJECT_TITLE="Debian Xfce"
+REF_BUILD_SUBJECT_TITLE="Debian Jwm"
 
 
 
